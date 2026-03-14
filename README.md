@@ -92,7 +92,9 @@ Image show the output that the file is sucessfully uploaded in the S3
 Step 12 :
 I implemented **least privilege** security by restricting the IAM role permissions. Now EC2 can upload and download objects but cannot list all buckets.
 
-![Project Screenshot](step-11-output.png)
+This show the policy what I have created.
+
+![Project Screenshot](step-12-least-privilege-policy.png)
 
 
 

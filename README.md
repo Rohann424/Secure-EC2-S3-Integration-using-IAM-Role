@@ -69,6 +69,13 @@ After attaching the role I **Tested S3 access again** and now the EC2 instance w
 ![Project Screenshot](step-9-s3-access-success.png)
 
 
+Step 10 :
+I **Downloaded** the test file from S3 bucket to the EC2 instance.
+This confirms that the server **can read** data from storage.
+
+![Project Screenshot](step-9-s3-access-success.png)
+
+
 
 
 

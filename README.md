@@ -1,6 +1,36 @@
 **Secure-EC2-S3-Integration-using-IAM-Role**
 
 
+**Project Overview :**
+This project demonstrates a secure integration of EC2 and S3 using IAM roles. 
+Uploaded files from S3 are served via an Apache web server on EC2. 
+It also shows website deployment using both EC2 and S3 static hosting options.
+
+**AWS services used :**
+- AWS EC2 (Ubuntu instance)
+- Amazon S3 (bucket storage)
+- IAM Roles (least privilege)
+- Apache Web Server
+- AWS CLI
+- HTML/CSS website files
+
+**Project Objective :**
+**Goal: **
+- Securely transfer files from S3 to EC2 using IAM roles.
+- Deploy website files on EC2 Apache server.
+- Demonstrate real-world cloud deployment and static file serving.
+
+**Real-world Application :**
+- Companies host web applications on EC2 servers integrated with S3 storage.
+- IAM roles provide secure, temporary credentials instead of storing keys.
+- Automation scripts allow log and file backup without manual intervention.
+- Static websites can be hosted directly on S3 for lightweight apps.
+
+**Architecture Diagram :**
+
+![Project Screenshot](step-1-s3-bucket-created.png)
+
+
 Step 1 :
 I **CREATED** an Amazon S3 bucket which will be used as cloud storage for this project.
 I kept block public access enabled because in real companies storage should be private by default for security reasons.

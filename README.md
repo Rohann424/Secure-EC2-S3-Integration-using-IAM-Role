@@ -106,7 +106,7 @@ Then Tested the Policy does it is attached properly or not.
 
 This below image represnt the output which clearly show the policy attcahed behaviour.
 
-![Project Screenshot](step-12-least-privilege-tested.png)
+![Project Screenshot](step-12-output.png)
 
 
 

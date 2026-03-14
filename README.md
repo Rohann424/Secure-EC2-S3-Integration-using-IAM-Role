@@ -145,7 +145,7 @@ Fololow Steps :-
 4)Go to **Objects** -- select the files -- action -- make all public --save
 
 
-![Project Screenshot](step-14-final-website.png)
+![Project Screenshot](step-15-browser-s3-website.png)
 
 
 

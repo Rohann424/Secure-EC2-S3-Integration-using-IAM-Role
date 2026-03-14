@@ -72,6 +72,7 @@ After attaching the role I **Tested S3 access again** and now the EC2 instance w
 Step 10 :
 I **Downloaded** the test file from S3 bucket to the EC2 instance.
 This confirms that the server **can read** data from storage.
+Reason why we use --recursive :- You will see all objects list
 
 ![Project Screenshot](step-10-file-downloaded-from-s3.png)
 

@@ -137,6 +137,14 @@ This is a common solution for lightweight static web apps in real-world cloud en
 
 Another way we can **Host** the wesite is 
 
+Fololow Steps :-
+
+1)Go to **Properties** -- Static website hosting  -- enable -- confirm
+2)Go to **Permissions** -- Block public access (bucket settings)  {edit} -- block all public access (off) -- Confirm -- save changes 
+3)Go to **Object** **owenrship** -- ACLs enabled -- save changes 
+4)Go to **Objects** -- select the files -- action -- make all public --save
+
+
 ![Project Screenshot](step-14-final-website.png)
 
 

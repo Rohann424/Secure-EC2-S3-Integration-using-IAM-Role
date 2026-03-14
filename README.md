@@ -115,6 +115,7 @@ I created a shell script to **Automate** the process of uploading system log fil
 
 The Script I used is -
 
+![Project Screenshot](Script-used.png)
 
 
 

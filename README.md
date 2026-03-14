@@ -125,10 +125,21 @@ This simulates a **real-world scenario** where a server hosts a web application.
 
 ![Project Screenshot](step-14-apache-running.png)
 
-This show the Final Image of website :
+This show the Final Image of website running :
 
 
 ![Project Screenshot](step-14-final-website.png)
+
+step 15 :
+I hosted the website files **directly** in S3 using **static website hosting**.
+The S3 bucket now serves the website publicly without any EC2 server.
+This is a common solution for lightweight static web apps in real-world cloud environments.
+
+Another way we can **Host** the wesite is 
+
+![Project Screenshot](step-14-final-website.png)
+
+
 
 
 

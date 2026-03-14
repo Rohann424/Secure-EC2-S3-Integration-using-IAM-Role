@@ -54,7 +54,7 @@ I created an **IAM role** which will give **S3 access** permission to the **EC2 
 Using role is safer than using access keys because credentials are managed automatically by AWS.
 
 
-![Project Screenshot](step-6-s3-access-denied.png)
+![Project Screenshot](step-7-iam-role-created.png)
 
 
 

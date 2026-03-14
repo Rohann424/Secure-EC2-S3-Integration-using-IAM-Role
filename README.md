@@ -123,6 +123,19 @@ Files were copied using AWS CLI, and website is now accessible via EC2 **public 
 This simulates a **real-world scenario** where a server hosts a web application.
 
 
+![Project Screenshot](step-14-apache-running.png)
+
+
+
+
+
+![Project Screenshot](step-14-apache-running.png)
+
+
+
+
+
+
 
 
 

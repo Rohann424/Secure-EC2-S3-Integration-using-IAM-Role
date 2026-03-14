@@ -49,6 +49,13 @@ This shows that by default EC2 has no permission to access storage which is good
 
 
 
+Step 7 :
+I created an **IAM role** which will give **S3 access** permission to the **EC2 instance**.
+Using role is safer than using access keys because credentials are managed automatically by AWS.
+
+
+![Project Screenshot](step-6-s3-access-denied.png)
+
 
 
 

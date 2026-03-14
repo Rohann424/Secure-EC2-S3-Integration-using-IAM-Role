@@ -77,6 +77,13 @@ Reason why we use --recursive :- You will see all objects list
 ![Project Screenshot](step-10-file-downloaded-from-s3.png)
 
 
+Step 11 :
+I created a **New file** inside EC2 and **Uploaded** it to the S3 bucket.
+This confirms that the server can write data to storage.
+
+
+![Project Screenshot](step-10-file-downloaded-from-s3.png)
+
 
 
 

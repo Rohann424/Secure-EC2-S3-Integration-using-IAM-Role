@@ -57,6 +57,12 @@ Using role is safer than using access keys because credentials are managed autom
 ![Project Screenshot](step-7-iam-role-created.png)
 
 
+Step 8 :
+I **Attached** the IAM role to my EC2 instance so that it can securely communicate with S3 service.
+
+![Project Screenshot](step-7-iam-role-created.png)
+
+
 
 
 

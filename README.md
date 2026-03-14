@@ -28,7 +28,7 @@ It also shows website deployment using both EC2 and S3 static hosting options.
 
 **Architecture Diagram :**
 
-![Project Screenshot](step-1-s3-bucket-created.png)
+![Project Screenshot](Architecture-Diagram-Secure-EC2-S3-Integration-using-IAM-Role.png)
 
 
 Step 1 :

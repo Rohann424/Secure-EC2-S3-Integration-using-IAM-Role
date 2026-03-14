@@ -63,6 +63,12 @@ I **Attached** the IAM role to my EC2 instance so that it can securely communica
 ![Project Screenshot](step-8-iam-role-attached-ec2.png)
 
 
+Step 9 :
+After attaching the role I **Tested S3 access again** and now the EC2 instance was able to list buckets successfully.
+
+![Project Screenshot](step-8-iam-role-attached-ec2.png)
+
+
 
 
 

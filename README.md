@@ -98,7 +98,7 @@ This show the policy what I have created.
 
 Then attached that policy by converting it into the role to the EC2.
 
-![Project Screenshot](step-12-least-privilege-role-ec2 (1).png)
+![Project Screenshot](step-12-least-privilege-role-ec2.png)
 
 Then Tested the Policy does it is attached properly or not.
 

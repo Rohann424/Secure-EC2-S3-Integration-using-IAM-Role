@@ -17,9 +17,9 @@ This server will later connect with S3 storage securely.
 ![Project Screenshot](step-3-ec2-instance-running.png)
 
 Step 4 :
-I connected to the EC2 instance using SSH from my local machine.
+I **connected** to the **EC2 instance using SSH** from my local machine.
 This allows me to configure the server and run commands inside it.
-![Project Screenshot](step-2-s3-object-uploaded.png)
+![Project Screenshot](step-4-ssh-connection-success.png)
 
 
 

@@ -111,7 +111,11 @@ This below image represnt the output which clearly show the policy attcahed beha
 Step 13 :
 I created a shell script to **Automate** the process of uploading system log files from EC2 to S3 storage.
 
-![Project Screenshot](step-12-output.png)
+![Project Screenshot](step-13-automation-script-executed.png)
+
+The Script I used is -
+
+
 
 
 

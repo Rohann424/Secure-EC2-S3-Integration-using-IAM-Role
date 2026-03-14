@@ -14,3 +14,8 @@ This file will be used later to test whether EC2 instance can download files fro
 Step 3 :
 I **Launched an EC2 instance** which will act like an application server in this project.
 This server will later connect with S3 storage securely.
+![Project Screenshot](step-3-ec2-instance-running.png)
+
+
+
+

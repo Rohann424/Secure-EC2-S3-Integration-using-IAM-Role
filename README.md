@@ -86,7 +86,7 @@ This confirms that the server can write data to storage.
 
 Image show the output that the file is sucessfully uploaded in the S3
 
-![Project Screenshot](step-11-file-uploaded-to-s3.png)
+![Project Screenshot](Step-11-Result-output of uploaded file -s3 (1).png)
 
 
 

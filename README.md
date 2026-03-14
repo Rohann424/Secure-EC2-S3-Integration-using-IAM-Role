@@ -10,3 +10,7 @@ Step 2 :
 I **UPLOADED** a sample file inside the S3 bucket.
 This file will be used later to test whether EC2 instance can download files from S3 storage.
 ![Project Screenshot](step-2-s3-object-uploaded.png)
+
+Step 3 :
+I **Launched an EC2 instance** which will act like an application server in this project.
+This server will later connect with S3 storage securely.

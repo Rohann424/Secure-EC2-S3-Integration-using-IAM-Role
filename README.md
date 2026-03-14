@@ -32,6 +32,7 @@ This allows me to configure the server and run commands inside it.
 Step 5 :
 I installed **AWS CLI** inside the EC2 instance.
 This tool is required so that the server can run commands to interact with AWS services like S3.
+
 ![Project Screenshot](step-5-aws-cli-installed.png)
 
 

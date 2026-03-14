@@ -1,4 +1,4 @@
-**#Secure-EC2-S3-Integration-using-IAM-Role**
+**Secure-EC2-S3-Integration-using-IAM-Role**
 
 
 Step 1 :

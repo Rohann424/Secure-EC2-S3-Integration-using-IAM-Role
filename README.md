@@ -82,7 +82,7 @@ I created a **New file** inside EC2 and **Uploaded** it to the S3 bucket.
 This confirms that the server can write data to storage.
 
 
-![Project Screenshot](step-10-file-downloaded-from-s3.png)
+![Project Screenshot](step-11-file-uploaded-to-s3.png)
 
 
 

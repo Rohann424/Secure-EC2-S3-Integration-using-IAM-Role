@@ -9,4 +9,4 @@ I kept block public access enabled because in real companies storage should be p
 Step 2 :
 I **UPLOADED** a sample file inside the S3 bucket.
 This file will be used later to test whether EC2 instance can download files from S3 storage.
-
+![Project Screenshot](step-2-s3-object-uploaded.png)

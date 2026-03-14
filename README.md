@@ -73,7 +73,7 @@ Step 10 :
 I **Downloaded** the test file from S3 bucket to the EC2 instance.
 This confirms that the server **can read** data from storage.
 
-![Project Screenshot](step-9-s3-access-success.png)
+![Project Screenshot](step-10-file-downloaded-from-s3.png)
 
 
 

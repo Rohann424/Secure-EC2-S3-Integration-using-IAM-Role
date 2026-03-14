@@ -102,7 +102,12 @@ Then attached that policy by converting it into the role to the EC2.
 
 Then Tested the Policy does it is attached properly or not.
 
-![Project Screenshot](step-12-least-privilege-policy.png)
+![Project Screenshot](step-12-least-privilege-tested.png)
+
+This below image represnt the output which clearly show the policy attcahed behaviour.
+
+![Project Screenshot](step-12-least-privilege-tested.png)
+
 
 
 

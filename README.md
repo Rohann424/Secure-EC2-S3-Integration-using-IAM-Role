@@ -45,7 +45,7 @@ Step 6 :
 I tried to list S3 buckets from EC2 but it **Failed** with Access Denied error.
 This shows that by default EC2 has no permission to access storage which is good security behaviour.
 
-![Project Screenshot](step-5-aws-cli-installed.png)
+![Project Screenshot](step-6-s3-access-denied.png)
 
 
 

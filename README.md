@@ -36,7 +36,7 @@ It also shows website deployment using both EC2 and S3 static hosting options.
 
 • **Practical Steps with Real Meaning**
 
-Step 1 :
+Step 1 :/n
 I **CREATED** an Amazon S3 bucket which will be used as cloud storage for this project.
 I kept block public access enabled because in real companies storage should be private by default for security reasons.
 

@@ -117,6 +117,13 @@ The Script I used is -
 
 ![Project Screenshot](Script-used.png)
 
+Step 14 :
+I deployed the website files from **S3 to an EC2** instance running Apache.
+Files were copied using AWS CLI, and website is now accessible via EC2 **public IP**.
+This simulates a **real-world scenario** where a server hosts a web application.
+
+
+
 
 
 

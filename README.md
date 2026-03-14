@@ -34,7 +34,7 @@ It also shows website deployment using both EC2 and S3 static hosting options.
 
 
 
-**Practical Steps with Real Meaning**
+• **Practical Steps with Real Meaning**
 
 Step 1 :
 I **CREATED** an Amazon S3 bucket which will be used as cloud storage for this project.

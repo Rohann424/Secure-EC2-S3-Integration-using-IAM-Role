@@ -125,11 +125,10 @@ This simulates a **real-world scenario** where a server hosts a web application.
 
 ![Project Screenshot](step-14-apache-running.png)
 
+This show the Final Image of website :
 
 
-
-
-![Project Screenshot](step-14-apache-running.png)
+![Project Screenshot](step-14-final-website.png)
 
 
 

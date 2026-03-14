@@ -96,6 +96,19 @@ This show the policy what I have created.
 
 ![Project Screenshot](step-12-least-privilege-policy.png)
 
+Then attached that policy by converting it into the role to the EC2.
+
+![Project Screenshot](step-12-least-privilege-policy.png)
+
+Then Tested the Policy does it is attached properly or not.
+
+![Project Screenshot](step-12-least-privilege-policy.png)
+
+
+
+
+
+
 
 
 

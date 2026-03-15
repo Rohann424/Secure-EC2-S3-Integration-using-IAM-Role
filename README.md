@@ -177,7 +177,7 @@ Fololow Steps :-
 1)Go to **Properties** -- Static website hosting  -- enable -- confirm
 2)Go to **Permissions** -- Block public access (bucket settings)  {edit} -- block all public access (off) -- Confirm -- save changes 
 3)Go to **Object** **owenrship** -- ACLs enabled -- save changes 
-4)Go to **Objects** -- select the files -- action -- make all public --save
+4)Go to **Objects** -- select the Objects -- action -- make all public --save
 
 
 ![Project Screenshot](screenshots/step-15-browser-s3-website.png)

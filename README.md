@@ -165,7 +165,7 @@ This show the Final Image of website running :
 
 ![Project Screenshot](screenshots/step-14-final-website.png)
 
-**step 15 :**
+**Step 15 :**
 I hosted the website files **directly** in S3 using **static website hosting**.
 The S3 bucket now serves the website publicly without any EC2 server.
 This is a common solution for lightweight static web apps in real-world cloud environments.
